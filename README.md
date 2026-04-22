@@ -20,8 +20,7 @@ My personal web portfolio showcasing projects, skills, and professional experien
 
 ## Screenshots
 
-_Placeholder for screenshots of the portfolio website._
-_Include images showcasing different sections like the homepage, project details, and mobile view._
+(https://github.com/ssurekumar01111-hue/portfolio/blob/main/portfolio.png)
 
 ## Getting Started
 
